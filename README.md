@@ -6,7 +6,7 @@ This is a set of Jupyter Notebooks for FOSS4G 2022 workshop.
 
 ## How to run the notebooks
 You do not need to install anything, the notebooks are hosted on mybinder.org.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncsu-geoforall-lab/grass-gis-workshop-foss4g-2022/main?urlpath=lab%2Ftree%2Fworkshop_part_1_intro.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lbartoletti/grass-gis-workshop-foss4g-2022/main?urlpath=lab%2Ftree%2F01-introduction.ipynb)
 
 If binder does not start even after couple tries, try a different web browser. For the workshop,
 we also had the following backup solutions available:
